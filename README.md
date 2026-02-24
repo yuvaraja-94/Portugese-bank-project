@@ -140,7 +140,7 @@ PRCP-1000-PortugeseBank/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/PRCP-1000-PortugeseBank.git
+   git clone https://github.com/<yuvaraja-94>/PRCP-1000-PortugeseBank.git
    cd PRCP-1000-PortugeseBank
    ```
 
